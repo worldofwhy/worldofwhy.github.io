@@ -219,4 +219,4 @@ pip-log.txt
 ############
 
 run.bat
-_site/**
+_site
